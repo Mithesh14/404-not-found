@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/Github-profile/">404 not found</a>
+<a href="https://mithesh14.github.io/404-not-found/">404 not found</a>
 
 # Screenshots 
 
